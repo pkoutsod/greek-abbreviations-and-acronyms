@@ -10,6 +10,7 @@ For each abbreviation or acronym, there will be:
 * The abbreviation's explanation in Greek
 * The abbreviation in English (optional)
 * The abbreviation's explanation in English (optional)
+* The most relevant link for each entity (optional)
 * The produced HTML5 source, e.g.: 
 ```html
 <abbr title="European Union">EU</abbr>
